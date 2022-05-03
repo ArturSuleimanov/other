@@ -1,0 +1,122 @@
+.head {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: #1b877e;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 20px; 
+}
+
+.elements {
+  font-size: 25px;
+  color: white;
+  max-width: 1024px;
+  min-width: 850;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.headlinks a{
+  color: white;
+  text-decoration: none;
+}
+
+p {
+  postition: relative;
+  color: black;
+}
+
+.skip {
+  margin-top: 69px;
+}
+
+.here {
+
+  background-image: url('https://i.postimg.cc/7hKcDXJx/image-8.png');
+
+  padding-top: 100px;
+  padding-bottom: 100px;
+  box-sizing: border-box;
+}
+.here h1 {
+ color: white;
+text-align: center;
+  font-family: sans-serif;
+  font-size: 50px;
+}
+
+
+.theproblem {
+  position: relative;
+}
+
+.absolute {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  max-width: 1219px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.theproblem h1 {
+  color: #1b877e;
+  font-family: sans-serif;
+  font-size: 35px;
+  text-align: center;
+}
+.theproblem {
+  margin: 100px;
+}
+
+.theproblem p {
+  font-size: 22px;
+  
+}
+
+
+.groupf {
+  display: flex;
+  justify-content: space-between;
+
+  margin-bottom: 50px;
+}
+.groups {
+  display: flex;
+  justify-content: space-between;
+
+}
+.photoes {
+  background: grey;
+  padding-right: 250px;
+  padding-left: 250px;
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+
+.photoes h1 {
+    color: #1b877e;
+  font-family: sans-serif;
+  font-size: 35px;
+  text-align: center;
+}
+
+
+.names {
+      color: #1b877e;
+  font-family: sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+.post {
+
+  font-family: sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
