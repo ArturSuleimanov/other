@@ -33,4 +33,7 @@ public class Bike {
     public void setModel(String model) {
         this.model = model;
     }
+    public void info() {System.out.println("Это мотоцикл");}
+    public int yearDifference(int num) {return Math.abs(num - year);}
+
 }
