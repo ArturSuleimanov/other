@@ -1,0 +1,5 @@
+Winter shoes; 38; 0
+Winter shoes; 38; 0
+Summer shoes; 40; 0
+Demiseason shoes; 41; 0
+Demiseason shoes; 41; 0
